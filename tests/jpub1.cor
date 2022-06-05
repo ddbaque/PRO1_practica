@@ -1,0 +1,13 @@
+
+ Bolcat taula frequencies ---->
+
+ Mida: 3 simbols 
+Entrada 0. Simbol:a, Frequencia: 0.666667, Codificacio: 1
+Entrada 1. Simbol:b, Frequencia: 0.166667, Codificacio: 00
+Entrada 2. Simbol:c, Frequencia: 0.166667, Codificacio: 01
+----> Fi bolcat taula
+
+ Missatge d'entrada (com a string):
+aaaabc
+ Missatge codificat (com a string):
+11110001

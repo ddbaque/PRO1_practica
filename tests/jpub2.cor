@@ -1,0 +1,16 @@
+
+ Bolcat taula frequencies ---->
+
+ Mida: 6 simbols 
+Entrada 0. Simbol:5, Frequencia: 0.05, Codificacio: 0010
+Entrada 1. Simbol:4, Frequencia: 0.25, Codificacio: 01
+Entrada 2. Simbol:2, Frequencia: 0.3, Codificacio: 11
+Entrada 3. Simbol:3, Frequencia: 0.25, Codificacio: 10
+Entrada 4. Simbol:1, Frequencia: 0.1, Codificacio: 000
+Entrada 5. Simbol:0, Frequencia: 0.05, Codificacio: 0011
+----> Fi bolcat taula
+
+ Missatge d'entrada (com a string):
+54232210132434323424
+ Missatge codificat (com a string):
+0010011110111100000110001011011001101110011101

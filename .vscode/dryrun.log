@@ -1,0 +1,9 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/david-denis/UPC/PRO1/parip/pract'
+g++ -D_JUDGE_ -D_GLIBCXX_DEBUG -O2 -Wall -Wextra -Werror -Wno-sign-compare -std=c++11   -c -o main.o main.cpp
+g++ -D_JUDGE_ -D_GLIBCXX_DEBUG -O2 -Wall -Wextra -Werror -Wno-sign-compare -std=c++11   -c -o Huffman.o Huffman.cpp
+g++ -D_JUDGE_ -D_GLIBCXX_DEBUG -O2 -Wall -Wextra -Werror -Wno-sign-compare -std=c++11   -c -o TaulaFreq.o TaulaFreq.cpp
+g++ -D_JUDGE_ -D_GLIBCXX_DEBUG -O2 -Wall -Wextra -Werror -Wno-sign-compare -std=c++11   -c -o Entrada.o Entrada.cpp
+g++ -D_JUDGE_ -D_GLIBCXX_DEBUG -O2 -Wall -Wextra -Werror -Wno-sign-compare -std=c++11    -o main.exe main.o Huffman.o TaulaFreq.o Entrada.o
+make: Leaving directory '/home/david-denis/UPC/PRO1/parip/pract'
+ 

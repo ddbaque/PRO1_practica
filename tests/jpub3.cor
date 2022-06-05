@@ -1,0 +1,32 @@
+
+ Bolcat taula frequencies ---->
+
+ Mida: 22 simbols 
+Entrada 0. Simbol:A, Frequencia: 0.00900901, Codificacio: 1111010
+Entrada 1. Simbol: , Frequencia: 0.153153, Codificacio: 110
+Entrada 2. Simbol:c, Frequencia: 0.0540541, Codificacio: 0011
+Entrada 3. Simbol:h, Frequencia: 0.0630631, Codificacio: 1000
+Entrada 4. Simbol:a, Frequencia: 0.0810811, Codificacio: 1110
+Entrada 5. Simbol:t, Frequencia: 0.108108, Codificacio: 010
+Entrada 6. Simbol:b, Frequencia: 0.018018, Codificacio: 001011
+Entrada 7. Simbol:o, Frequencia: 0.0990991, Codificacio: 000
+Entrada 8. Simbol:i, Frequencia: 0.036036, Codificacio: 10100
+Entrada 9. Simbol:s, Frequencia: 0.0540541, Codificacio: 0110
+Entrada 10. Simbol:m, Frequencia: 0.0540541, Codificacio: 0111
+Entrada 11. Simbol:p, Frequencia: 0.018018, Codificacio: 101110
+Entrada 12. Simbol:u, Frequencia: 0.036036, Codificacio: 10101
+Entrada 13. Simbol:e, Frequencia: 0.045045, Codificacio: 11111
+Entrada 14. Simbol:r, Frequencia: 0.0630631, Codificacio: 1001
+Entrada 15. Simbol:g, Frequencia: 0.018018, Codificacio: 101111
+Entrada 16. Simbol:l, Frequencia: 0.00900901, Codificacio: 1111011
+Entrada 17. Simbol:n, Frequencia: 0.036036, Codificacio: 10110
+Entrada 18. Simbol:v, Frequencia: 0.018018, Codificacio: 111100
+Entrada 19. Simbol:d, Frequencia: 0.00900901, Codificacio: 001000
+Entrada 20. Simbol:x, Frequencia: 0.00900901, Codificacio: 001001
+Entrada 21. Simbol:., Frequencia: 0.00900901, Codificacio: 001010
+----> Fi bolcat taula
+
+ Missatge d'entrada (com a string):
+A chatbot is a computer program that simulates human conversation through voice commands or text chats or both.
+ Missatge codificat (com a string):
+11110101100011100011100100010110000101101010001101101110110001100001111011101010101011111100111010111010010001011111001111001111100101000111001011001101010001111010111110111110010111110110110100010101011111101011011000110001011011110011111100101101110010101000001011011001010001001000101011011111000110111100000101000011111111100011000011101111110101100010000110110000100111001011111001001010110001110001110010011011000010011100010110000101000001010
